@@ -1,0 +1,9 @@
+2015-07-26 01:09:05,405,INFO PyVibhu: test_user created
+2015-07-26 01:09:05,405,INFO PyVibhu: simple ftp server bind success
+2015-07-26 01:09:05,405,INFO PyVibhu: siple fp server start...
+2015-07-26 01:09:05,406,INFO >>> starting FTP server on 0.0.0.0:6161, pid=19363 <<<
+2015-07-26 01:09:05,406,INFO poller: <class 'pyftpdlib.ioloop.Epoll'>
+2015-07-26 01:09:05,406,INFO masquerade (NAT) address: None
+2015-07-26 01:09:05,406,INFO passive ports: None
+2015-07-26 01:09:05,406,INFO use sendfile(2): False
+2015-07-26 01:09:20,145,INFO >>> shutting down FTP server (1 active fds) <<<
