@@ -16,4 +16,6 @@ Py - referring to Python language
 
 Historial significance of components from hinduism:
 From Atharvaveda it is learnt that Sudhanvan Angirasa had three sons, Ribhu, Vibhu and Vaja, collectively known as Ribhus who were intelligent sages. They carried the luminous power of knowledge to this world, which knowledge pervaded the world as nectar. Ribhu or Ribhukshan was skillful at handling knowledge; Vibhu or Vibhawa was skillful in pervading and diffusing, and Vaja handled embodied plenitude with similar skill; all three dwelled in the solar-region and are considered to be the rays of the sun. They are the three leaders of rites and the possessors of opulence, and the three deities of several Rig Vedic hymns.
+
+Author: Shashaankar Komirelly, shashaankar61@gmail.com 
 """
